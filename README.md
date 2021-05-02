@@ -14,4 +14,4 @@ Código base utilizado para o trabalho foi o código "Framework-PG" adaptado por
 
 ### Conteúdo do Trabalho:
 O objetivo deste trabalho é desenvolver um protótipo de jogo 2D aplicando os conceitos vistos em aula como desenho de primitivas, transformações geométricas, câmera 2D e mapeamento de textura. 
-Neste jogo o usuário contrala uma nave espacial através das setas para direita e para esquerda do teclado, devendo então desviar dos asteroides que se locomovem em sua direção. Ao encontrar um asteroide, o jogador recebe uma mensagem indicando a colisão e a janela de jogo é finalizada. 
+Neste jogo o usuário controla uma nave espacial através das setas para direita e para esquerda do teclado, devendo então desviar dos asteroides que se locomovem em sua direção. Ao encontrar um asteroide, o jogador recebe uma mensagem indicando a colisão e a janela de jogo é finalizada. 
