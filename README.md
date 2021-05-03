@@ -2,7 +2,7 @@
 Trabalho final do grau A da cadeira de Processamento Gráfico/Unisinos semestre 2021/1
 
 ## Fonte:
-Código base utilizado para o trabalho foi o código "Framework-PG" adaptado por Rossana Baptista Queiroz a partir do learnopengl "Hello Triangle". O código, assim como o arquivo "dependecies", pode ser encontrado em https://github.com/fellowsheep/PG2021-1.git. 
+Código base utilizado para o trabalho foi o código "Framework-PG" adaptado por Rossana Baptista Queiroz a partir do learnopengl "Hello Transforms". O código, assim como o arquivo "dependecies", pode ser encontrado em https://github.com/fellowsheep/PG2021-1.git. 
 
 ### Intruções para compilar o projeto usando Visual Studio 2019:
 - Fazer o download em zip do repositório;
